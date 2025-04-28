@@ -48,7 +48,7 @@ body {
       height: 100px;
     }
 
-    .submit-btn {
+    #submit {
       margin-top: 20px;
       width: 100%;
       padding: 12px;
@@ -60,6 +60,6 @@ body {
       cursor: pointer;
     }
 
-    .submit-btn:hover {
+    #submit:hover {
       background-color: #45a049;
     }
